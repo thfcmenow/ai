@@ -1,0 +1,117 @@
+{
+  "body": "<p>On&nbsp;October 14, 2021, Palmetto GBA identified incorrect fax numbers on the Jurisdiction J (JJ) and Jurisdiction M (JM) Part A Redetermination (first level appeals) forms. These forms have been updated to reflect the correct fax numbers:</p><ul><li><strong>JJ Part A</strong>: (803) 870&ndash;0138</li><li><strong>JM Part A and HHH:</strong>&nbsp;(803) 699&ndash;2425</li></ul><p>If you bookmarked or downloaded the forms between October 8 and&nbsp;October 14, 2021, please discard.</p><p>Palmetto GBA strongly encourages you to use our <a href=\\\"https://www.onlineproviderservices.com/ecx_improvev2/\\\" target=\\\"_blank\\\">eServices portal</a> to submit your first level redetermination requests. If you are unable to submit your Redetermination (first level appeals) request via our <a href=\\\"https://www.onlineproviderservices.com/ecx_improvev2/\\\" target=\\\"_blank\\\">eServices portal</a>, please use the updated form to submit your request for a Redetermination, and fax this form and all additional documentation to either,&nbsp;<a href=\\\"https://palmettogba.com/palmetto/Mforms.nsf/files/AP-JJ-A-1000.pdf/$File/AP-JJ-A-1000.pdf?Open&amp;\\\" target=\\\"_blank\\\" title=\\\"https://palmettogba.com/palmetto/mforms.nsf/files/ap-jj-a-1000.pdf/$file/ap-jj-a-1000.pdf?open&amp;\\\">JJ Part A</a>&nbsp;(PDF, 366 KB)&nbsp;(803) 870&ndash;0138&nbsp;or&nbsp;<a href=\\\"https://palmettogba.com/palmetto/Mforms.nsf/files/AP-JM-A-1000.pdf/$File/AP-JM-A-1000.pdf?Open&amp;\\\" target=\\\"_blank\\\" title=\\\"https://palmettogba.com/palmetto/mforms.nsf/files/ap-jm-a-1000.pdf/$file/ap-jm-a-1000.pdf?open&amp;\\\">JM Part A</a>&nbsp;(PDF, 317 KB) and&nbsp;<a href=\\\"https://palmettogba.com/palmetto/Mforms.nsf/files/AP-HHH-A-1000.pdf/$File/AP-HHH-A-1000.pdf?Open&amp;\\\" target=\\\"_blank\\\" title=\\\"https://palmettogba.com/palmetto/mforms.nsf/files/ap-hhh-a-1000.pdf/$file/ap-hhh-a-1000.pdf?open&amp;\\\">HHH</a>&nbsp;(PDF, 265 KB) (803) 699&ndash;2425.</p>",
+  "did": "0g7q003yi9",
+  "title": "Jurisdiction J (JJ) and Jurisdiction M (JM) Part A Redetermination (First Level Appeals) Form",
+  "displayTitle": "",
+  "doctype": "article",
+  "sortdate": "10/18/2021",
+  "desc": "On October 14, 2021, Palmetto GBA identified incorrect fax numbers on the Jurisdiction J (JJ) and Jurisdiction M (JM) Part A Redetermination (first level appeals) form. These forms have been updated to reflect the correct fax numbers.",
+  "autourl": "",
+  "truelastupdated": "",
+  "syncdom": "02/15/2024 10:35:03 AM",
+  "publishdate": "10/18/2021",
+  "bc": [
+    {
+      "cat": "JJA~Appeals~Filing an Appeal",
+      "doctype": "",
+      "title": "Jurisdiction J (JJ) and Jurisdiction M (JM) Part A Redetermination (First Level Appeals) Form",
+      "displaytitle": "",
+      "lob": "jja",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jja/admin/topics"
+        },
+        {
+          "title": "Appeals",
+          "catlevel": "JJA~Appeals",
+          "url": "AU2SWF4021"
+        },
+        {
+          "title": "Filing an Appeal",
+          "catlevel": "JJA~Appeals~Filing an Appeal",
+          "url": "C1E3B33QRO"
+        }
+      ]
+    },
+    {
+      "cat": "JMA~Appeals~Filing an Appeal",
+      "doctype": "",
+      "title": "Jurisdiction J (JJ) and Jurisdiction M (JM) Part A Redetermination (First Level Appeals) Form",
+      "displaytitle": "",
+      "lob": "jma",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jma/admin/topics"
+        },
+        {
+          "title": "Appeals",
+          "catlevel": "JMA~Appeals",
+          "url": "89BLL46815"
+        },
+        {
+          "title": "Filing an Appeal",
+          "catlevel": "JMA~Appeals~Filing an Appeal",
+          "url": "FQPT9RV6IB"
+        }
+      ]
+    },
+    {
+      "cat": "JMHHH~Appeals~Filing an Appeal",
+      "doctype": "",
+      "title": "Jurisdiction J (JJ) and Jurisdiction M (JM) Part A Redetermination (First Level Appeals) Form",
+      "displaytitle": "",
+      "lob": "jmhhh",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jmhhh/admin/topics"
+        },
+        {
+          "title": "Appeals",
+          "catlevel": "JMHHH~Appeals",
+          "url": "8B3SDP8260"
+        },
+        {
+          "title": "Filing an Appeal",
+          "catlevel": "JMHHH~Appeals~Filing an Appeal",
+          "url": "9932GGV0OD"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Appeals",
+  "cat": "Appeals~Filing an Appeal",
+  "cats": [
+    "JJA~Appeals~Filing an Appeal",
+    "JMA~Appeals~Filing an Appeal",
+    "JMHHH~Appeals~Filing an Appeal"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "JJA",
+      "cat": "Appeals",
+      "realcat": "Appeals",
+      "did": "GW2HOVL49I",
+      "realtitle": "",
+      "key": {
+        "lob": "JJA",
+        "cat": "Appeals"
+      },
+      "lob": "JJA"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "",
+  "news": "Yes",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "jja",
+  "csortdate": "20211018",
+  "cpublishdate": "20211018",
+  "end": true,
+  "addSearchID": "d4kd22vao8nwhtqb5iz3hdyrrcj1pgba"
+}

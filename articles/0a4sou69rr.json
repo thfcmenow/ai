@@ -1,0 +1,93 @@
+{
+  "body": "<p style=\\\"margin-left:0in; margin-right:0in\\\">This module explains the four exceptions where providers can request an extension on the time limit for claims.</p>",
+  "did": "0a4sou69rr",
+  "title": "Timely Filing Exclusion Requests Module",
+  "displayTitle": "",
+  "doctype": "article",
+  "sortdate": "11/19/2021",
+  "desc": "This module explains the four exceptions where providers can request an extension on the time limit for claims.",
+  "autourl": " https://www.palmettogba.com/internet/PCIDN.nsf/R?OpenAgent&DID=C8KME534&url=yes",
+  "truelastupdated": "10/16/2023 1:09:48 PM",
+  "syncdom": "02/15/2024 10:35:03 AM",
+  "publishdate": "10/16/2023",
+  "bc": [
+    {
+      "cat": "JJA~Events and Education~Education On Demand",
+      "doctype": "",
+      "title": "Timely Filing Exclusion Requests Module",
+      "displaytitle": "",
+      "lob": "jja",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jja/admin/topics"
+        },
+        {
+          "title": "Events and Education",
+          "catlevel": "JJA~Events and Education",
+          "url": "MEJRK1Q28T"
+        },
+        {
+          "title": "Education On Demand",
+          "catlevel": "JJA~Events and Education~Education On Demand",
+          "url": "AU2MBU4481"
+        }
+      ]
+    },
+    {
+      "cat": "JJA~Inpatient Rehabilitation Facility Review Choice Demonstration~Submitting Pre-Claim Review Requests",
+      "doctype": "",
+      "title": "Timely Filing Exclusion Requests Module",
+      "displaytitle": "",
+      "lob": "jja",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jja/admin/topics"
+        },
+        {
+          "title": "Inpatient Rehabilitation Facility Review Choice Demonstration",
+          "catlevel": "JJA~Inpatient Rehabilitation Facility Review Choice Demonstration",
+          "url": "FHT2JV6UCF"
+        },
+        {
+          "title": "Submitting Pre-Claim Review Requests",
+          "catlevel": "JJA~Inpatient Rehabilitation Facility Review Choice Demonstration~Submitting Pre-Claim Review Requests",
+          "url": "LCVQ2S7W8N"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Events and Education",
+  "cat": "Events and Education~Education On Demand",
+  "cats": [
+    "JJA~Events and Education~Education On Demand",
+    "JJA~Inpatient Rehabilitation Facility Review Choice Demonstration~Submitting Pre-Claim Review Requests"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "JJA",
+      "cat": "Events and Education",
+      "realcat": "Events and Education",
+      "did": "2H1AEJMMQ4",
+      "realtitle": "Contact POE",
+      "key": {
+        "lob": "JJA",
+        "cat": "Events and Education"
+      },
+      "lob": "JJA"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "Timely Filing, Exclusion Requests, Module",
+  "news": "",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "jja",
+  "csortdate": "20211119",
+  "cpublishdate": "20231016",
+  "end": true,
+  "addSearchID": "zzelhfdp8w7fzn23t9dkliu306zkpgba"
+}

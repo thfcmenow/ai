@@ -1,0 +1,93 @@
+{
+  "body": "<p>This module provides an introduction to the Comprehensive Error Rate Testing (CERT) program. It discusses the basics of CERT, types of errors found by CERT, and roles of Palmetto GBA and providers.&nbsp;</p><p>Once reviewed, please take a moment to share your feedback about your experience by completing the survey under <strong>Resources</strong> in the top, right corner.</p>",
+  "did": "0hb153wykq",
+  "title": "Introduction to Comprehensive Error Rate Testing (CERT) Program Module",
+  "displayTitle": "",
+  "doctype": "article",
+  "sortdate": "04/10/2023",
+  "desc": "This module provides an introduction to the Comprehensive Error Rate Testing (CERT) program. It discusses the basics of CERT, types of errors found by CERT, and roles of Palmetto GBA and providers.",
+  "autourl": "https://www.palmettogba.com/internet/PCIDN.nsf/R?OpenAgent&DID=61IJJT8C&url=yes",
+  "truelastupdated": "",
+  "syncdom": "02/15/2024 10:35:03 AM",
+  "publishdate": "04/14/2023",
+  "bc": [
+    {
+      "cat": "JMA~Events and Education~Education On Demand",
+      "doctype": "",
+      "title": "Introduction to Comprehensive Error Rate Testing (CERT) Program Module",
+      "displaytitle": "",
+      "lob": "jma",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jma/admin/topics"
+        },
+        {
+          "title": "Events and Education",
+          "catlevel": "JMA~Events and Education",
+          "url": "8C5SQB0637"
+        },
+        {
+          "title": "Education On Demand",
+          "catlevel": "JMA~Events and Education~Education On Demand",
+          "url": "8AVKHF5202"
+        }
+      ]
+    },
+    {
+      "cat": "JMA~Comprehensive Error Rate Testing (CERT)~Modules and Videos",
+      "doctype": "",
+      "title": "Introduction to Comprehensive Error Rate Testing (CERT) Program Module",
+      "displaytitle": "",
+      "lob": "jma",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jma/admin/topics"
+        },
+        {
+          "title": "Comprehensive Error Rate Testing (CERT)",
+          "catlevel": "JMA~Comprehensive Error Rate Testing (CERT)",
+          "url": "89ASJ81083"
+        },
+        {
+          "title": "Modules and Videos",
+          "catlevel": "JMA~Comprehensive Error Rate Testing (CERT)~Modules and Videos",
+          "url": "JDILR9W4CI"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Events and Education",
+  "cat": "Events and Education~Education On Demand",
+  "cats": [
+    "JMA~Events and Education~Education On Demand",
+    "JMA~Comprehensive Error Rate Testing (CERT)~Modules and Videos"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "JMA",
+      "cat": "Events and Education",
+      "realcat": "Events and Education",
+      "did": "HO4DWG6EAK",
+      "realtitle": "Contact POE",
+      "key": {
+        "lob": "JMA",
+        "cat": "Events and Education"
+      },
+      "lob": "JMA"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "Comprehensive Error Rate Testing (CERT) program",
+  "news": "Yes",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "jma",
+  "csortdate": "20230410",
+  "cpublishdate": "20230414",
+  "end": true,
+  "addSearchID": "2ngcl2fu50emjcgg2ptty80cllwmpgba"
+}

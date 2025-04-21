@@ -1,0 +1,93 @@
+{
+  "body": "<p>Reason Code 5OP68 indicates that the service is subject to prior authorization and no UTN is present on the claim. A program indicator is present. Service on the claim does not match an occurrence on the prior authorization auxiliary file.</p><p><strong>Reason for Denial</strong><br />No UTN was present on the claim, the service billed on the claim did not match the occurrence on the prior authorization form.</p><p><strong>How to Avoid This Denial</strong></p><ul><li>Submit the prior authorization form for one of the five hospital outpatient department pre-authorization services prior to submitting your claim for payment</li><li>Be sure to include the assigned UTN</li><li>Verify that the service billed matches the service on the prior authorization form</li></ul>",
+  "did": "0auit6nmug",
+  "title": "Reason Code 5OP68: Service Is Subject to Prior Authorization and No UTN Is Present on the Claim",
+  "displayTitle": "",
+  "doctype": "article",
+  "sortdate": "07/23/2021",
+  "desc": "Reason code 5OP68 indicates the service is subject to prior authorization and no UTN is present on the claim. A program indicator is present. Service on the claim does not match an occurrence on the prior authorization auxiliary file.",
+  "autourl": "",
+  "truelastupdated": "",
+  "syncdom": "02/15/2024 10:35:03 AM",
+  "publishdate": "08/09/2021",
+  "bc": [
+    {
+      "cat": "JJA~Medical Review~Denials",
+      "doctype": "",
+      "title": "Reason Code 5OP68: Service Is Subject to Prior Authorization and No UTN Is Present on the Claim",
+      "displaytitle": "",
+      "lob": "jja",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jja/admin/topics"
+        },
+        {
+          "title": "Medical Review",
+          "catlevel": "JJA~Medical Review",
+          "url": "429FU775I5"
+        },
+        {
+          "title": "Denials",
+          "catlevel": "JJA~Medical Review~Denials",
+          "url": "BCDH5C4248"
+        }
+      ]
+    },
+    {
+      "cat": "JMA~Medical Review~Denials",
+      "doctype": "",
+      "title": "Reason Code 5OP68: Service Is Subject to Prior Authorization and No UTN Is Present on the Claim",
+      "displaytitle": "",
+      "lob": "jma",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jma/admin/topics"
+        },
+        {
+          "title": "Medical Review",
+          "catlevel": "JMA~Medical Review",
+          "url": "9G7MNM1328"
+        },
+        {
+          "title": "Denials",
+          "catlevel": "JMA~Medical Review~Denials",
+          "url": "BCDH6W7238"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Medical Review",
+  "cat": "Medical Review~Denials",
+  "cats": [
+    "JJA~Medical Review~Denials",
+    "JMA~Medical Review~Denials"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "JJA",
+      "cat": "Medical Review",
+      "realcat": "Medical Review",
+      "did": "3JRZHLJ7V3",
+      "realtitle": "Contact JJA Medical Review",
+      "key": {
+        "lob": "JJA",
+        "cat": "Medical Review"
+      },
+      "lob": "JJA"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "",
+  "news": "",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "jja",
+  "csortdate": "20210723",
+  "cpublishdate": "20210809",
+  "end": true,
+  "addSearchID": "cc4j8mrmivmoj5fibu2pt1fp1ds0pgba"
+}

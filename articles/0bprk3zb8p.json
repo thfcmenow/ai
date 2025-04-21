@@ -1,0 +1,93 @@
+{
+  "body": "<p><strong>Description</strong><br />Claim was rejected due to an invalid or missing discharge status in UB92. Please correct and resubmit/rekey. Hardcopy submittors resubmit RTP report with corrections.</p><p><strong>Resolution</strong><br />Verify the patient discharge status code billed on your claim corresponds with the location of the patient within 72 hours of discharge from your facility.</p><p><a href=\\\"https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/downloads/fy_2010_fr_mce.pdf\\\" target=\\\"_blank\\\">CMS Definitions of Medicare Code Edits</a><br />&nbsp;</p><p style=\\\"margin-left:0in; margin-right:0in\\\">&nbsp;</p>",
+  "did": "0bprk3zb8p",
+  "title": "Reason Code W1450",
+  "displayTitle": "",
+  "doctype": "article",
+  "sortdate": "05/03/2023",
+  "desc": "This article explains claims denial reason code W1450: Claim was rejected due to an invalid or missing discharge status in UB92. Please correct and resubmit/rekey. Hardcopy submittors resubmit RTP report with corrections. It also includes instructions on how to resolve this claims denial.",
+  "autourl": "",
+  "truelastupdated": "",
+  "syncdom": "02/15/2024 10:35:03 AM",
+  "publishdate": "05/04/2023",
+  "bc": [
+    {
+      "cat": "JJA~Claims~Reason Code Help Tool",
+      "doctype": "",
+      "title": "Reason Code W1450",
+      "displaytitle": "",
+      "lob": "jja",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jja/admin/topics"
+        },
+        {
+          "title": "Claims",
+          "catlevel": "JJA~Claims",
+          "url": "AU2STG2520"
+        },
+        {
+          "title": "Reason Code Help Tool",
+          "catlevel": "JJA~Claims~Reason Code Help Tool",
+          "url": "AU2M8R0540"
+        }
+      ]
+    },
+    {
+      "cat": "JMA~Claims~Reason Code Help Tool",
+      "doctype": "",
+      "title": "Reason Code W1450",
+      "displaytitle": "",
+      "lob": "jma",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jma/admin/topics"
+        },
+        {
+          "title": "Claims",
+          "catlevel": "JMA~Claims",
+          "url": "89ASDP7770"
+        },
+        {
+          "title": "Reason Code Help Tool",
+          "catlevel": "JMA~Claims~Reason Code Help Tool",
+          "url": "8AKQXU8451"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Claims",
+  "cat": "Claims~Reason Code Help Tool",
+  "cats": [
+    "JJA~Claims~Reason Code Help Tool",
+    "JMA~Claims~Reason Code Help Tool"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "JJA",
+      "cat": "Claims",
+      "realcat": "Claims",
+      "did": "1J59ZEN1KD",
+      "realtitle": "Contact Claims",
+      "key": {
+        "lob": "JJA",
+        "cat": "Claims"
+      },
+      "lob": "JJA"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "Reason Code W1450, invalid or missing discharge status, UB92",
+  "news": "",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "jja",
+  "csortdate": "20230503",
+  "cpublishdate": "20230504",
+  "end": true,
+  "addSearchID": "rktbsnezdksikkyty57mzscqp0xgpgba"
+}

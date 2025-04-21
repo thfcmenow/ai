@@ -1,0 +1,69 @@
+{
+  "body": "<p>The June 2023 Railroad Medicare News is now available. This issue is packed full of useful information for submitting claims.&nbsp;</p>",
+  "did": "0eqnxyyvw9",
+  "title": "June 2023 Railroad Medicare News",
+  "displayTitle": "",
+  "doctype": "article",
+  "sortdate": "05/23/2023",
+  "desc": "The June 2023 Railroad Medicare News is now available. This issue is packed full of useful information for submitting claims. ",
+  "autourl": "/palmetto/providers.nsf/files/June_2023_Railroad_Medicare_News.pdf/$FILE/June_2023_Railroad_Medicare_News.pdf",
+  "truelastupdated": "",
+  "syncdom": "02/15/2024 10:35:03 AM",
+  "publishdate": "05/24/2023",
+  "bc": [
+    {
+      "cat": "Railroad Medicare~Medicare News~Railroad Medicare News",
+      "doctype": "",
+      "title": "June 2023 Railroad Medicare News",
+      "displaytitle": "",
+      "lob": "rr",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/rr/admin/topics"
+        },
+        {
+          "title": "Medicare News",
+          "catlevel": "Railroad Medicare~Medicare News",
+          "url": "7GYG7L2386"
+        },
+        {
+          "title": "Railroad Medicare News",
+          "catlevel": "Railroad Medicare~Medicare News~Railroad Medicare News",
+          "url": "985Q8E0264"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Medicare News",
+  "cat": "Medicare News~Railroad Medicare News",
+  "cats": [
+    "Railroad Medicare~Medicare News~Railroad Medicare News"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "Railroad Medicare",
+      "cat": "root",
+      "realcat": "",
+      "did": "3JNP7LRCSZ",
+      "realtitle": "Contact Railroad Medicare",
+      "key": {
+        "lob": "Railroad Medicare",
+        "cat": ""
+      },
+      "lob": "Railroad Medicare"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "",
+  "news": "Yes",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "rr",
+  "csortdate": "20230523",
+  "cpublishdate": "20230524",
+  "end": true,
+  "addSearchID": "nikcydy0hv1baqj8w8etytmg5pcipgba"
+}

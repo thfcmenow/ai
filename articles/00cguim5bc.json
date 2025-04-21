@@ -1,0 +1,88 @@
+{
+  "body": "<p>Medicare is finding through the Medical Review process that hospices are not correctly reporting post-mortem visits with the modifier PM on their claims. These reporting errors will be counted as an error in the review process and may cause service intensity add-on (SIA) payments to be applied incorrectly on the claim.&nbsp;</p><p>Hospices shall report visits and length of visits (rounded to the nearest 15-minute increment), for nurses, aides, social workers&nbsp;and therapists who are employed by the hospice, that occur on the date of death, after the patient has passed away, with modifier PM. The reporting of post-mortem visits, on the date of death, should occur regardless of the patient&rsquo;s level of care or site of service. Post-mortem visits occurring on a date subsequent to the date of death are not to be reported.</p><p>Date of death is defined as the date of death reported on the death certificate. Hospices shall report hospice visits that occur before death on a separate line from those which occur after death.</p><p>For example, assume that a nurse arrives at the home at 9 p.m. to provide routine home care (RHC) to a dying patient, and that the patient passes away at 11 p.m. The nurse stays with the family until 1:30 a.m. The hospice should report a nursing visit with eight 15-minute time units for the visit from 9 p.m. to 11 p.m. On a separate line, the hospice should report a nursing visit with a PM modifier with four 15-minute time units for the portion of the visit from 11 p.m. to midnight to account for the 1 hour post mortem visit.</p><p>If the patient passes away suddenly, and the hospice nurse does not arrive until after his death at 11 p.m., and remains with the family until 1:30 a.m., then the hospice should report a line item nursing visit with a PM modifier and four 15-minute increments of time as the units to account for the 1 hour post mortem visit from 11 p.m. to midnight.</p><p><strong>Resource:</strong> Medicare Claims Processing Manual, <a href=\\\"https://www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/Downloads/clm104c11.pdf\\\" target=\\\"_blank\\\">Chapter 11 &mdash;&nbsp;Processing Hospice Claims</a>&nbsp;(PDF), section 30.3 &mdash;&nbsp;Data Required on the Institutional Claim to A/B MAC (HHH).</p>",
+  "did": "00cguim5bc",
+  "title": "Hospices are to Report Post-Mortem Visits with the Modifier PM",
+  "displayTitle": "",
+  "doctype": "article",
+  "sortdate": "04/21/2022",
+  "desc": "Medicare is finding through the Medical Review process that hospices are not correctly reporting post-mortem visits with the modifier PM on their claims. These reporting errors will be counted as an error in the review process and may cause service intensity add-on (SIA) payments to be applied incorrectly on the claim. ",
+  "autourl": "",
+  "truelastupdated": "",
+  "syncdom": "02/15/2024 10:34:52 AM",
+  "publishdate": "03/15/2022",
+  "bc": [
+    {
+      "cat": "JMHHH~Hospice",
+      "doctype": "",
+      "title": "Hospices are to Report Post-Mortem Visits with the Modifier PM",
+      "displaytitle": "",
+      "lob": "jmhhh",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jmhhh/admin/topics"
+        },
+        {
+          "title": "Hospice",
+          "catlevel": "JMHHH~Hospice",
+          "url": "8B3QGW8442"
+        }
+      ]
+    },
+    {
+      "cat": "JMHHH~Comprehensive Error Rate Testing (CERT)~Documentation",
+      "doctype": "",
+      "title": "Hospices are to Report Post-Mortem Visits with the Modifier PM",
+      "displaytitle": "",
+      "lob": "jmhhh",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jmhhh/admin/topics"
+        },
+        {
+          "title": "Comprehensive Error Rate Testing (CERT)",
+          "catlevel": "JMHHH~Comprehensive Error Rate Testing (CERT)",
+          "url": "8B3Q5K7665"
+        },
+        {
+          "title": "Documentation",
+          "catlevel": "JMHHH~Comprehensive Error Rate Testing (CERT)~Documentation",
+          "url": "OVBIDQGB5B"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Hospice",
+  "cat": "Hospice",
+  "cats": [
+    "JMHHH~Hospice",
+    "JMHHH~Comprehensive Error Rate Testing (CERT)~Documentation"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "JMHHH",
+      "cat": "root",
+      "realcat": "",
+      "did": "5EC1UGZMB9",
+      "realtitle": "Contact JMHHH",
+      "key": {
+        "lob": "JMHHH",
+        "cat": ""
+      },
+      "lob": "JMHHH"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "Hospices, Report, Post-Mortem Visits, Modifier PM",
+  "news": "",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "jmhhh",
+  "csortdate": "20220421",
+  "cpublishdate": "20220315",
+  "end": true,
+  "addSearchID": "17gpteit2sqzwe1z9ndjxhb88jq7pgba"
+}

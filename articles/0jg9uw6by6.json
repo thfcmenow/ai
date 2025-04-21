@@ -1,0 +1,70 @@
+{
+  "body": "<p>Have a question about our customer service? Please look <a href=\\\"/palmetto/rr.nsf/DID/ET4KUEHLQR\\\">here</a> for answers to frequently asked questions.</p>\n",
+  "did": "0jg9uw6by6",
+  "title": "Frequently Asked Questions",
+  "displayTitle": "",
+  "doctype": "topic",
+  "sortdate": "12/14/2024",
+  "desc": "",
+  "autourl": "",
+  "truelastupdated": "12/16/2024 7:02:31 AM",
+  "syncdom": "12/27/2024 9:56:51 AM",
+  "publishdate": "12/16/2024",
+  "template": "",
+  "addSearchID": "teq4lt2zzrftqhn316x4jmjdiuv6pgba",
+  "bc": [
+    {
+      "cat": "Railroad Medicare~Customer Service~Frequently Asked Questions",
+      "doctype": "",
+      "title": "Frequently Asked Questions",
+      "displaytitle": "",
+      "lob": "rr",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/rr/admin/topics"
+        },
+        {
+          "title": "Customer Service",
+          "catlevel": "Railroad Medicare~Customer Service",
+          "url": "7GYSKT6231"
+        },
+        {
+          "title": "Frequently Asked Questions",
+          "catlevel": "Railroad Medicare~Customer Service~Frequently Asked Questions",
+          "url": "0JG9UW6BY6"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Customer Service",
+  "cat": "Customer Service~Frequently Asked Questions",
+  "cats": [
+    "Railroad Medicare~Customer Service~Frequently Asked Questions"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "Railroad Medicare",
+      "cat": "root",
+      "realcat": "",
+      "did": "3JNP7LRCSZ",
+      "realtitle": "Contact Railroad Medicare",
+      "key": {
+        "lob": "Railroad Medicare",
+        "cat": ""
+      },
+      "lob": "Railroad Medicare"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "",
+  "news": "",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "rr",
+  "csortdate": "20241214",
+  "cpublishdate": "20241216",
+  "end": true
+}

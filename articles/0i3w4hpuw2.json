@@ -1,0 +1,59 @@
+{
+  "body": "<p style=\\\"margin-left:0in; margin-right:0in\\\">The following LCD was retired:</p>\n\n<ul>\n\t<li>MolDX: ConfirmMDx Epigenetic Molecular Assay <a href=\\\"https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=35632\\\" target=\\\"_blank\\\">L35632</a></li>\n</ul>\n\n<p style=\\\"margin-left:0in; margin-right:0in\\\">The following MCD Article was revised:</p>\n\n<ul>\n\t<li>Billing and Coding: MolDX: Lab-Developed Tests for Inherited Cancer Syndromes in Patients with Cancer <a href=\\\"https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58652\\\" target=\\\"_blank\\\">A58652</a></li>\n</ul>\n\n<p>The following MCD Articles were retired:</p>\n\n<ul>\n\t<li>Billing and Coding: MolDX: ConfirmMDx Epigenetic Molecular Assay <a href=\\\"https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56955\\\" target=\\\"_blank\\\">A56955</a></li>\n\t<li>Billing and Coding: Progensa&reg; PCA3 Assay Coverage Update <a href=\\\"https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=53107\\\" target=\\\"_blank\\\">A53107</a></li>\n</ul>\n\n<p style=\\\"margin-left:0in; margin-right:0in\\\">&nbsp;</p>\n",
+  "did": "0i3w4hpuw2",
+  "title": "MolDX Local Coverage Determination (LCD) and Medical Coverage Database (MCD) Article Updates: Part A and Part B",
+  "displayTitle": "",
+  "doctype": "listserv",
+  "sortdate": "07/11/2022",
+  "desc": "This article lists the MolDX Local Coverage Determinations (LCDs) and Medical Coverage Database (MCD) articles revisions.",
+  "autourl": "",
+  "truelastupdated": "",
+  "syncdom": "08/31/2024 12:15:35 PM",
+  "publishdate": "07/14/2022",
+  "addSearchID": "cdkv8qnuhxumjtqv7nb0rmyfnkpjpgba",
+  "bc": [
+    {
+      "cat": "MolDx~",
+      "doctype": "",
+      "title": "MolDX Local Coverage Determination (LCD) and Medical Coverage Database (MCD) Article Updates: Part A and Part B",
+      "displaytitle": "",
+      "lob": "MolDx",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/MolDx/admin/topics"
+        }
+      ]
+    }
+  ],
+  "rootCat": "",
+  "cat": "",
+  "cats": [
+    "MolDx"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "MolDx",
+      "cat": "",
+      "realcat": "",
+      "did": "1IHXQXZVPS",
+      "realtitle": "Contact MolDx",
+      "key": {
+        "lob": "MolDx",
+        "cat": ""
+      },
+      "lob": "MolDx"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "MolDX, Local Coverage Determination, LCD,, Medical Coverage Database, MCD, Article Updates, Part A , Part B",
+  "news": "",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "MolDx",
+  "csortdate": "20220711",
+  "cpublishdate": "20220714",
+  "end": true
+}

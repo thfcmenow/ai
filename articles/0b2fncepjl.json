@@ -1,0 +1,64 @@
+{
+  "body": "<p>The Inpatient Rehabilitation Facility Review Choice Demonstration FAQ&nbsp;<a href=\\\"https://www.cms.gov/files/document/irf-rcd-faqs.pdf\\\" target=\\\"_blank\\\">are now available (PDF)</a>&nbsp;from the Centers for Medicare &amp; Medicaid Services.</p>",
+  "did": "0b2fncepjl",
+  "title": "Inpatient Rehabilitation Facility Review Choice Demonstration Frequently Asked Questions",
+  "displayTitle": "",
+  "doctype": "article",
+  "sortdate": "08/28/2023",
+  "desc": "The Inpatient Rehabilitation Facility Review Choice Demonstration Frequently Asked Questions (FAQs) are now available. ",
+  "autourl": "",
+  "truelastupdated": "",
+  "syncdom": "02/15/2024 10:35:03 AM",
+  "publishdate": "08/31/2023",
+  "bc": [
+    {
+      "cat": "JJA~Inpatient Rehabilitation Facility Review Choice Demonstration",
+      "doctype": "",
+      "title": "Inpatient Rehabilitation Facility Review Choice Demonstration Frequently Asked Questions",
+      "displaytitle": "",
+      "lob": "jja",
+      "next": [
+        {
+          "title": "Topics",
+          "url": "/jja/admin/topics"
+        },
+        {
+          "title": "Inpatient Rehabilitation Facility Review Choice Demonstration",
+          "catlevel": "JJA~Inpatient Rehabilitation Facility Review Choice Demonstration",
+          "url": "FHT2JV6UCF"
+        }
+      ]
+    }
+  ],
+  "rootCat": "Inpatient Rehabilitation Facility Review Choice Demonstration",
+  "cat": "Inpatient Rehabilitation Facility Review Choice Demonstration",
+  "cats": [
+    "JJA~Inpatient Rehabilitation Facility Review Choice Demonstration"
+  ],
+  "cuwidget": [
+    {
+      "sitename": "JJA",
+      "cat": "root",
+      "realcat": "",
+      "did": "3NKH10E4KG",
+      "realtitle": "Contact JJA",
+      "key": {
+        "lob": "JJA",
+        "cat": ""
+      },
+      "lob": "JJA"
+    }
+  ],
+  "superAdState": false,
+  "keywords": "Inpatient Rehabilitation Facility, IRF, Review Choice Demonstration, RCD, Frequently Asked Questions, FAQs",
+  "news": "",
+  "newsFlag": "",
+  "updatedFlag": "",
+  "superIntroState": false,
+  "superTopicStartText": "",
+  "lob": "jja",
+  "csortdate": "20230828",
+  "cpublishdate": "20230831",
+  "end": true,
+  "addSearchID": "l1r3im71oxl3xurzg5qjrfh3709mpgba"
+}
