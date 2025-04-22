@@ -105,8 +105,11 @@ app.get('/query/:query', async (req, res) => {
   }
 });
 
-app.listen(port, () => {
-  logWithTime(`Server running at http://localhost:${port}`);
+const PORT = process.env.PORT || 3001;
+
+
+app.listen(PORT, () => {
+  logWithTime(`Server running at http://localhost:${PORT}`);
   logWithTime('Ready to process embedding queries');
 });
 
