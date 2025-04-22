@@ -124,16 +124,18 @@ class EmbeddingManager {
       // Initialize embedding model
       this.logWithTime('Initializing embedding model...');
       this.pipeline = await pipelineFunc('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
+        cache_dir: '/tmp/xenova-cache', // Use Vercel's writable /tmp directory
         quantized: true, // Use quantized model for smaller memory footprint
         progress_callback: null // Disable progress logs
       });
       
       // Initialize text generation model (lightweight)
-      this.logWithTime('Initializing text generation model...');
-      this.textGenerationPipeline = await pipelineFunc('text-generation', 'Xenova/gpt2', {
+      // this.logWithTime('Initializing text generation model...');
+      /* = await pipelineFunc('text-generation', 'Xenova/gpt2', {
+        cache_dir: '/tmp/xenova-cache', // Use Vercel's writable /tmp directory
         quantized: true, // Use quantized model for smaller memory footprint
         progress_callback: null // Disable progress logs
-      });
+      }); */
       
       // Load articles and generate/load embeddings
       await this.loadArticles();
