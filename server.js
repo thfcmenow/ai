@@ -86,6 +86,10 @@ app.get('/articles', async (_, res) => {
   logWithTime(`Fetched ${articles.length} articles`);
 })
 
+app.get('/', (req, res) => {
+  res.send('Hello World! This is the backend server for the embedding manager.');
+}
+);
 
 // Query endpoint
 app.get('/query/:query', async (req, res) => {
