@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "help":"node server.js --help",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
