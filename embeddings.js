@@ -23,7 +23,8 @@ class EmbeddingManager {
     this.embeddings = [];
     this.pipeline = null;
     this.textGenerationPipeline = null;
-    this.embeddingsFile = path.join(__dirname, 'embeddings.json');
+    // this.embeddingsFile = path.join(__dirname, 'embeddings.json');
+    this.embeddingsFile = path.join('/tmp', 'embeddings.json')
     this.embeddingsVersion = 1; // For future compatibility
     this.openai = new OpenAI({
        apiKey: process.env.AIKEY // Correct way to access the environment variable
