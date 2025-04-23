@@ -17,7 +17,6 @@ import cors from 'cors'; // Import cors
 
 // copy articles to tmp
 import fs from 'fs/promises';
-import path from 'path';
 
 async function copyArticlesToTmp() {
   const sourceDir = './articles';
