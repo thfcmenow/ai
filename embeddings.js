@@ -169,8 +169,9 @@ class EmbeddingManager {
   // Load JSON files from articles folder
   async loadArticles() {
     try {
-      const articleDir = path.join(__dirname, 'articles');
-      const files = await fs.readdir(articleDir);
+      
+      const articleDir = path.join(__dirname, 'tmp', 'articles');
+      const files = await fs.readdir(articleDir );
       let loadedCount = 0;
       let skippedCount = 0;
       

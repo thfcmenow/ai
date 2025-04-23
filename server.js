@@ -15,6 +15,38 @@ import { createRequire } from 'module';
 import { config } from 'dotenv';
 import cors from 'cors'; // Import cors
 
+// copy articles to tmp
+import fs from 'fs/promises';
+import path from 'path';
+
+async function copyArticlesToTmp() {
+  const sourceDir = './articles';
+  const targetDir = '/tmp/articles';
+
+  try {
+    // Ensure the target directory exists
+    await fs.mkdir(targetDir, { recursive: true });
+
+    // Read all files from the source directory
+    const files = await fs.readdir(sourceDir);
+
+    for (const file of files) {
+      const sourcePath = path.join(sourceDir, file);
+      const targetPath = path.join(targetDir, file);
+
+      // Copy each file to /tmp/articles
+      await fs.copyFile(sourcePath, targetPath);
+    }
+
+    console.log('Articles copied to /tmp successfully.');
+  } catch (error) {
+    console.error('Error copying articles to /tmp:', error.message);
+  }
+}
+
+// Call this function during initialization
+copyArticlesToTmp();
+
 
 // Near the top of your main file
 const originalWrite = process.stderr.write;
@@ -61,7 +93,7 @@ embeddingManager.init()
 app.get('/articles', async (_, res) => {
   let articles = [];
   try {
-    const articlesDir = "./articles";
+    const articlesDir = "./tmp/articles";
     const files = await fsPromises.readdir(articlesDir);
     for (const file of files) {
       const filePath = path.join(articlesDir, file);
