@@ -19,8 +19,9 @@ import cors from 'cors'; // Import cors
 import fs from 'fs/promises';
 
 async function copyArticlesToTmp() {
+  console.log('Copying articles to /tmp...');
   const sourceDir = './articles';
-  const targetDir = '/tmp/articles';
+  const targetDir = './tmp/articles';
 
   try {
     // Ensure the target directory exists
