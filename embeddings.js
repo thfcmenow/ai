@@ -170,7 +170,7 @@ class EmbeddingManager {
   async loadArticles() {
     try {
       
-      const articleDir = path.join(__dirname, 'tmp', 'articles');
+      const articleDir = path.join('/tmp', 'articles');
       const files = await fs.readdir(articleDir );
       let loadedCount = 0;
       let skippedCount = 0;

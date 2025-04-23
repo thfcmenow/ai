@@ -21,7 +21,7 @@ import fs from 'fs/promises';
 async function copyArticlesToTmp() {
   console.log('Copying articles to /tmp...');
   const sourceDir = './articles';
-  const targetDir = './tmp/articles';
+  const targetDir = '/tmp/articles'; // Use absolute path instead of relative
 
   try {
     // Ensure the target directory exists
@@ -41,6 +41,7 @@ async function copyArticlesToTmp() {
     console.log('Articles copied to /tmp successfully.');
   } catch (error) {
     console.error('Error copying articles to /tmp:', error.message);
+    throw error; // Re-throw to make sure errors are properly handled
   }
 }
 
@@ -93,7 +94,7 @@ embeddingManager.init()
 app.get('/articles', async (_, res) => {
   let articles = [];
   try {
-    const articlesDir = "./tmp/articles";
+    const articlesDir = "/tmp/articles";
     const files = await fsPromises.readdir(articlesDir);
     for (const file of files) {
       const filePath = path.join(articlesDir, file);
